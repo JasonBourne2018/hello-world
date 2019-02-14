@@ -1,0 +1,8 @@
+{
+    "name": "JasonBourne2018/hello-world",
+    "require": {
+        "clue/buzz-react": "^2.5",
+        "symfony/dom-crawler": "^2.8",
+        "symfony/css-selector": "^2.8"
+    }
+}
